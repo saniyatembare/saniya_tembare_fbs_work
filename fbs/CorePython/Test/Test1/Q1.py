@@ -8,6 +8,6 @@ area = length * breadth
 
 semicircle = (3.14 * radius ** 2) / 2
 
-perimeter = area + breadth
+perimeter = area + semicircle
 
 print(f'Area of the perimeter is {perimeter}')
